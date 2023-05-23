@@ -9,4 +9,6 @@ Let's go...
 -----
 Very soon the road map will be developed and stated here in with clear targets to follow.
 -----
+I continue learning how the github and discord as well the Visual Code Studio are all interconnected some how to form a broad tool of information 
+for all code and programing using such tools
 
